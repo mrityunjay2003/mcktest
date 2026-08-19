@@ -1,0 +1,1202 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "The strength of a school is 640, with the number of boys being 400. Find the ratio of girls to boys.",
+    "askedIn": "SSC CHSL 09/07/2024 (Shift-04)",
+    "options": [
+      "5:6",
+      "3:5",
+      "8:5",
+      "4:5"
+    ],
+    "correctAnswer": "3:5"
+  },
+  {
+    "questionNumber": 2,
+    "question": "A sum of Rs.2002 is divided among A, B and C in the ratio 3:4:6. Find the share of B in this?",
+    "askedIn": "UPSI 19/12/2017 (Shift-02)",
+    "options": [
+      "Rs.616",
+      "Rs.610",
+      "Rs.462",
+      "Rs.58"
+    ],
+    "correctAnswer": "Rs.616"
+  },
+  {
+    "questionNumber": 3,
+    "question": "A sum of money is to be distributed among A, B, C, and D in the ratio of 10:4:8:5. If C gets Rs.24 more than B, how much did A receive?",
+    "askedIn": "RRB NTPC GL CBT-I 23/06/2025 (Shift-03)",
+    "options": [
+      "Rs.63",
+      "Rs.59",
+      "Rs.60",
+      "Rs.1510"
+    ],
+    "correctAnswer": "Rs.60"
+  },
+  {
+    "questionNumber": 4,
+    "question": "If a:b = 5:7 then (6a² - 2b²) : (b² - a²) will be:",
+    "askedIn": "SSC CHSL 08/08/2023 (Shift-04)",
+    "options": [
+      "12:5",
+      "21:5",
+      "13:6",
+      "17:8"
+    ],
+    "correctAnswer": "13:6"
+  },
+  {
+    "questionNumber": 5,
+    "question": "If a:b = c:d = e:f = 5:7 then what is the ratio of (3a + 5c + 11e) : (3b + 5d + 11f)?",
+    "askedIn": "SSC CGL 26/09/2024 (Shift-02)",
+    "options": [
+      "7:11",
+      "3:7",
+      "5:7",
+      "11:7"
+    ],
+    "correctAnswer": "5:7"
+  },
+  {
+    "questionNumber": 6,
+    "question": "If a/b = c/d = e/f = 2/3, then find the value of (2a² - 3c² + 4e²) / (2b² - 3d² + 4f²).",
+    "askedIn": "UPSI 20/12/2017 (Shift-02)",
+    "options": [
+      "4:9",
+      "2:5",
+      "3:8",
+      "1:6"
+    ],
+    "correctAnswer": "4:9"
+  },
+  {
+    "questionNumber": 7,
+    "question": "If p/q = 1/3, q/r = 2, r/s = 1/2, s/t = 3 and t/u = 1/4, so find the value of [(pqr)/(stu)]³.",
+    "askedIn": null,
+    "options": [
+      "27/512",
+      "100/216",
+      "125/512",
+      "216/343"
+    ],
+    "correctAnswer": "27/512"
+  },
+  {
+    "questionNumber": 8,
+    "question": "If (7x + y) : (7x - y) = 7:2, then what is the value of x : y?",
+    "askedIn": "SSC MTS 19/06/2023 (Shift-03)",
+    "options": [
+      "9:35",
+      "11:42",
+      "6:41",
+      "17:52"
+    ],
+    "correctAnswer": "9:35"
+  },
+  {
+    "questionNumber": 9,
+    "question": "If (5x + 3y)/(5x - 3y) = 7/3, then find the value of x : y.",
+    "askedIn": "SSC CPO 29/06/2024 (Shift-02)",
+    "options": [
+      "5:3",
+      "3:2",
+      "3:5",
+      "2:3"
+    ],
+    "correctAnswer": "3:2"
+  },
+  {
+    "questionNumber": 10,
+    "question": "If 674 bananas were distributed among three monkeys in the ratio 17/2 : 14/6 : 2/5 respectively, how many bananas did the third monkey get?",
+    "askedIn": "RRB NTPC GL CBT-I 21/06/2025 (Shift-02)",
+    "options": [
+      "24",
+      "23",
+      "22",
+      "25"
+    ],
+    "correctAnswer": "24"
+  },
+  {
+    "questionNumber": 11,
+    "question": "1/M : 1/N : 1/O = 3:4:5, then M : N : O is equal to:",
+    "askedIn": "SSC CHSL 05/07/2024 (Shift-02)",
+    "options": [
+      "20:15:12",
+      "15:20:12",
+      "12:15:20",
+      "20:12:15"
+    ],
+    "correctAnswer": "20:15:12"
+  },
+  {
+    "questionNumber": 12,
+    "question": "If A:B:C = 2:3:5, then the ratio A/B : B/C : C/A is equal to:",
+    "askedIn": "DP CONSTABLE 16/11/2023 (Shift-02)",
+    "options": [
+      "20:25:39",
+      "20:18:75",
+      "18:20:79",
+      "75:20:29"
+    ],
+    "correctAnswer": "20:18:75"
+  },
+  {
+    "questionNumber": 13,
+    "question": "Three numbers are in the ratio 4/5 : 5/6 : 9/10. The difference between the smallest and the greatest numbers is 12. Find the number which is neither the smallest nor the greatest.",
+    "askedIn": "SSC CGL 24/07/2023 (Shift-2)",
+    "options": [
+      "96",
+      "108",
+      "100",
+      "104"
+    ],
+    "correctAnswer": "100"
+  },
+  {
+    "questionNumber": 14,
+    "question": "If 3x = 5y = 4z, then x : y : z is equal to:",
+    "askedIn": null,
+    "options": [
+      "9:12:16",
+      "15:10:9",
+      "20:12:15",
+      "8:5:3"
+    ],
+    "correctAnswer": "20:12:15"
+  },
+  {
+    "questionNumber": 15,
+    "question": "If 2P = 3Q = 4R = 5S, then find P : Q : R : S.",
+    "askedIn": "SSC Phase-XI 28/06/2023 (Shift-03)",
+    "options": [
+      "30:20:12:15",
+      "12:20:30:15",
+      "20:30:15:12",
+      "30:20:15:12"
+    ],
+    "correctAnswer": "30:20:15:12"
+  },
+  {
+    "questionNumber": 16,
+    "question": "If A:B = 6:8 and B:C = 5:10, then A:B:C is:",
+    "askedIn": "SSC CGL 13/09/2024 (Shift-01)",
+    "options": [
+      "3:4:8",
+      "1:3:4",
+      "4:3:2",
+      "1:2:4"
+    ],
+    "correctAnswer": "3:4:8"
+  },
+  {
+    "questionNumber": 17,
+    "question": "If the ratio of P and Q is 5:6 and the ratio of Q and R is 14:15, then what will be the ratio of P and R?",
+    "askedIn": "UP CONSTABLE 30/08/2024 (Shift-01)",
+    "options": [
+      "9:7",
+      "8:7",
+      "7:9",
+      "7:8"
+    ],
+    "correctAnswer": "7:9"
+  },
+  {
+    "questionNumber": 18,
+    "question": "If a:b = 2:3, b:c = 5:7, then find the ratio of c:a.",
+    "askedIn": "SSC CGL TIER-II (20/01/2025)",
+    "options": [
+      "15:21",
+      "20:21",
+      "21:10",
+      "10:21"
+    ],
+    "correctAnswer": "21:10"
+  },
+  {
+    "questionNumber": 19,
+    "question": "If x:y = 2:3, y:z = 4:7 and z:w = 7:3, then x:y:z:w is:",
+    "askedIn": "DP CONSTABLE 30/11/2023 (Shift-01)",
+    "options": [
+      "8:12:21:9",
+      "12:8:21:9",
+      "8:4:21:9",
+      "4:21:9:8"
+    ],
+    "correctAnswer": "8:12:21:9"
+  },
+  {
+    "questionNumber": 20,
+    "question": "A sum of money was divided between Cyrus, Rohan and Mishti. The ratio of the sums received by Cyrus and Rohan was 3:2, while the ratio of the sums received by Rohan and Mishti was 7:12. If the sum received by Cyrus was 1,800 less than the sum received by Mishti, how many rupees did Rohan receive as his share?",
+    "askedIn": "SSC Phase XII 24/06/2024 (Shift-03)",
+    "options": [
+      "₹7,560",
+      "₹9,240",
+      "₹6,300",
+      "₹8,400"
+    ],
+    "correctAnswer": "₹8,400"
+  },
+  {
+    "questionNumber": 21,
+    "question": "The sum of the four numbers A, B, C and D is 875. If the ratio of A to B is 1:2, the ratio of B to C is 3:1 and the ratio of C to D is 2:3, find the value of C.",
+    "askedIn": "SSC Phase XII 26/06/2024 (Shift-04)",
+    "options": [
+      "125",
+      "120",
+      "135",
+      "130"
+    ],
+    "correctAnswer": "125"
+  },
+  {
+    "questionNumber": 22,
+    "question": "If P:Q = 3:4 and Q:R = 4:7, then find the value of (P+Q) : (Q+R) : (R+P).",
+    "askedIn": "SSC CGL TIER II 26/10/2023",
+    "options": [
+      "10:3:11",
+      "11:4:7",
+      "3:4:7",
+      "7:11:10"
+    ],
+    "correctAnswer": "7:11:10"
+  },
+  {
+    "questionNumber": 23,
+    "question": "If (a+b) : (b+c) : (c+a) = 15:14:11, and a+b+c = 40, then what is the value of (3a + b - 4c)?",
+    "askedIn": "SSC MTS 08/10/2021 (Shift-02)",
+    "options": [
+      "15",
+      "14",
+      "17",
+      "18"
+    ],
+    "correctAnswer": "14"
+  },
+  {
+    "questionNumber": 24,
+    "question": "If (a+b) : (b+c) : (c+a) = 7:6:5 and a+b+c = 27, then what will be the value of 1/a : 1/b : 1/c?",
+    "askedIn": "SSC CGL TIER II 2018",
+    "options": [
+      "3:6:4",
+      "3:2:4",
+      "4:3:6",
+      "3:4:2"
+    ],
+    "correctAnswer": "4:3:6"
+  },
+  {
+    "questionNumber": 25,
+    "question": "If a, b and c are positive numbers such that (a² + b²) : (b² + c²) : (c² + a²) = 34:61:45, then b - a : c - b : c - a =",
+    "askedIn": "SSC CGL MAINS 29/06/2022",
+    "options": [
+      "1:2:3",
+      "2:1:3",
+      "3:1:2",
+      "3:2:1"
+    ],
+    "correctAnswer": "2:1:3"
+  },
+  {
+    "questionNumber": 26,
+    "question": "If a : (b+c) = 3:9 and c : (a+b) = 10:14 then b : (a+c) = ?",
+    "askedIn": "UPSI 14/12/2017 (Shift-03)",
+    "options": [
+      "4/5",
+      "2/3",
+      "1/2",
+      "3/5"
+    ],
+    "correctAnswer": "1/2"
+  },
+  {
+    "questionNumber": 27,
+    "question": "If P : (Q+R) = 2:5 and R : (P+Q) = 6:7, then find the value of Q : (P+R).",
+    "askedIn": "DP CONSTABLE 22/11/2023 (Shift-03)",
+    "options": [
+      "23:29",
+      "23:37",
+      "23:59",
+      "23:68"
+    ],
+    "correctAnswer": "23:68"
+  },
+  {
+    "questionNumber": 28,
+    "question": "If (a+b+c) : d = 17:3, (a+c+d) : b = 3:1, (a+b+d) : c = 3:2, then find the value of (b+c+d) : a.",
+    "askedIn": null,
+    "options": [
+      "1:2",
+      "2:5",
+      "3:1",
+      "4:1"
+    ],
+    "correctAnswer": "4:1"
+  },
+  {
+    "questionNumber": 29,
+    "question": "A total amount of ₹49 is distributed among A, B and C. A gets ₹5 more than B and B gets ₹4 more than C. What is the ratio of their shares?",
+    "askedIn": "UP CONSTABLE 31/08/2024 (Shift-02)",
+    "options": [
+      "21:16:14",
+      "21:16:12",
+      "21:14:12",
+      "14:16:12"
+    ],
+    "correctAnswer": "21:16:12"
+  },
+  {
+    "questionNumber": 30,
+    "question": "A, B and C divide an amount of Rs.10,500 amongst themselves in the ratio 5:7:9, respectively. If each one gets Rs.500 more, then what will be the ratio of the amounts with A, B and C?",
+    "askedIn": "SSC CGL 20/04/2022 (Shift-02)",
+    "options": [
+      "3:4:5",
+      "5:6:7",
+      "5:7:9",
+      "7:9:11"
+    ],
+    "correctAnswer": "3:4:5"
+  },
+  {
+    "questionNumber": 31,
+    "question": "A sum of Rs 7,410 is divided between A, B and C such that the ratio of the share of A to the combined share of B and C is 9:17 and the ratio of the share of C to the combined share of A and B is 5:8. What is the ratio of the shares of B and C?",
+    "askedIn": "SSC Phase IX 2022",
+    "options": [
+      "13:17",
+      "7:10",
+      "9:10",
+      "8:9"
+    ],
+    "correctAnswer": "7:10"
+  },
+  {
+    "questionNumber": 32,
+    "question": "A sum of ₹6,300 is divided among A, B, C and D such that the ratio of the combined share of A and D to the combined share of B and C is 11:10 and the ratio of the shares of B and D is 8:9. If C receives Rs 1,560, then what is the difference (in Rs) between the shares of A and B ?",
+    "askedIn": "SSC Phase IX 2022",
+    "options": [
+      "180",
+      "240",
+      "120",
+      "160"
+    ],
+    "correctAnswer": "240"
+  },
+  {
+    "questionNumber": 33,
+    "question": "A sum of Rs.46,800 is divided among A, B, C and D in such a way that the ratio of the combined share of A and D to the combined share of B and C is 8:5. The ratio of the share of B to that of C is 5:4. A receives Rs 18,400. If x is the difference between the shares of A and B and y is the difference between the shares of C and D, then what is the value of (x - y) (in Rs)?",
+    "askedIn": "SSC CGL MAINS 29/01/2022",
+    "options": [
+      "6500",
+      "7000",
+      "5000",
+      "6000"
+    ],
+    "correctAnswer": "6000"
+  },
+  {
+    "questionNumber": 34,
+    "question": "₹1066 is divided among 2 men, 6 women and 8 boys such that the ratio of the shares of a man, a woman and a boy is 3:2:1. How much money does a man get? (in ₹)",
+    "askedIn": "UPSI 13/11/2021 (Shift-01)",
+    "options": [
+      "₹123",
+      "₹119",
+      "₹121",
+      "₹20"
+    ],
+    "correctAnswer": "₹123"
+  },
+  {
+    "questionNumber": 35,
+    "question": "A man divides ₹12,900 among 5 sons, 4 daughters and 2 nephews. If each daughter gets four times as much as each nephew, and each son gets five times as much as each nephew, how much does each daughter get?",
+    "askedIn": "UP CONSTABLE 17/02/2024 (Shift-02)",
+    "options": [
+      "₹900",
+      "₹1100",
+      "₹1200",
+      "₹1500"
+    ],
+    "correctAnswer": "₹1200"
+  },
+  {
+    "questionNumber": 36,
+    "question": "Aniruddha, Guru, Yasin and Mahesh rented a house at Rs. 60 per month. Aniruddha contributed half of the total amount given by others, Guru contributed one-third of the total amount given by others and Yasin contributed one-fourth of the total amount given by others. What amount was paid by Mahesh?",
+    "askedIn": "UPSI 22/12/2017 (Shift-02)",
+    "options": [
+      "15",
+      "13",
+      "12",
+      "14"
+    ],
+    "correctAnswer": "13"
+  },
+  {
+    "questionNumber": 37,
+    "question": "A certain amount was to be distributed among X, Y and Z in the ratio of 12:13:14 respectively. But it was wrongly distributed in the ratio of 13:11:15 respectively. Y got ₹160 less. What was the amount? (in ₹)",
+    "askedIn": "UPSI 22/11/2021 (Shift-01)",
+    "options": [
+      "₹3130",
+      "₹3120",
+      "₹3140",
+      "₹3110"
+    ],
+    "correctAnswer": "₹3120"
+  },
+  {
+    "questionNumber": 38,
+    "question": "Two numbers are in the ratio 9:16. If both numbers are increased by 40, then their ratio becomes 2:3. What is the difference between the two numbers?",
+    "askedIn": "SSC CHSL 16/03/2023 (Shift-02)",
+    "options": [
+      "64",
+      "60",
+      "48",
+      "56"
+    ],
+    "correctAnswer": "56"
+  },
+  {
+    "questionNumber": 39,
+    "question": "What should be added to each term of the ratio 5:11 so that the ratio becomes 3:5?",
+    "askedIn": "SSC CHSL 11/07/2024 (Shift-04)",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "5"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "questionNumber": 40,
+    "question": "Two numbers are in the ratio of 3:7. If 11 is subtracted from each, the ratio between the numbers becomes 7:20. Find the smaller number.",
+    "askedIn": "SSC CPO 27/06/2024 (Shift-01)",
+    "options": [
+      "39",
+      "21",
+      "36",
+      "27"
+    ],
+    "correctAnswer": "39"
+  },
+  {
+    "questionNumber": 41,
+    "question": "Find the number which must be subtracted from the terms of the ratio 15:19 to make it equal to 3:4.",
+    "askedIn": "UP CONSTABLE 24/08/2024 (Shift-02)",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "questionNumber": 42,
+    "question": "Two numbers are in the ratio 7:11. If the first number is increased by 10 and the second number is decreased by 20, then the ratio becomes 2:3. What is the sum of the original two numbers?",
+    "askedIn": "RRB NTPC GL CBT-I 19/06/2025 (Shift-01)",
+    "options": [
+      "1240",
+      "1254",
+      "1260",
+      "1268"
+    ],
+    "correctAnswer": "1260"
+  },
+  {
+    "questionNumber": 43,
+    "question": "Two numbers are in the ratio 4:5. If 17 is subtracted from each, the new numbers are in the ratio 11:14. If 20 is added to each of the original numbers, then the ratio becomes:",
+    "askedIn": "SSC Phase XII 25/06/2024 (Shift-04)",
+    "options": [
+      "241:275",
+      "224:241",
+      "224:275",
+      "275:241"
+    ],
+    "correctAnswer": "224:275"
+  },
+  {
+    "questionNumber": 44,
+    "question": "In a school of 720 students, the ratio of boys to girls is 3:5. Find how many new boys may be allowed to the school if 18 new girls are admitted, so that the ratio of boys to girls changes to 2:3.",
+    "askedIn": "SSC CPO 05/10/2023 (Shift-03)",
+    "options": [
+      "42",
+      "50",
+      "44",
+      "38"
+    ],
+    "correctAnswer": "42"
+  },
+  {
+    "questionNumber": 45,
+    "question": "The ratio of number of boys and girls in a college is 3:2. If 40 boys leave the college and 40 girls join the college, then their ratio will become 2:3. What is the initial number of boys in the college?",
+    "askedIn": "SSC CHSL 10/03/2023 (Shift-04)",
+    "options": [
+      "120",
+      "150",
+      "225",
+      "75"
+    ],
+    "correctAnswer": "120"
+  },
+  {
+    "questionNumber": 46,
+    "question": "In a school library, the ratio of Science to English books is 10:13. If there are 400 Science books and due to increase demand of Science books, few Science books are added by school authority and the ratio becomes 25:26. What is the number of Science books added?",
+    "askedIn": "SSC MTS 09/05/2023 (Shift-02)",
+    "options": [
+      "150",
+      "100",
+      "120",
+      "80"
+    ],
+    "correctAnswer": "100"
+  },
+  {
+    "questionNumber": 47,
+    "question": "Monthly salaries of Anil and Kumud are in the ratio 19:17. If Anil and Kumud get salary hike of Rs. 2000 and Rs. 1000 respectively, then the ratio in their salaries become 8:7. What is the present salary of Kumud after increased (in Rs.)?",
+    "askedIn": "SSC CGL 24/08/2021 (Shift 02)",
+    "options": [
+      "38000",
+      "18000",
+      "34000",
+      "35000"
+    ],
+    "correctAnswer": "35000"
+  },
+  {
+    "questionNumber": 48,
+    "question": "The students in three classes are in a ratio of 3:7:8. If 6 students are increased in each class, the ratio changes to 11:23:26. Find the total number of students in the three classes before the increase.",
+    "askedIn": "SSC MTS 17/05/2023 (Shift-01)",
+    "options": [
+      "162",
+      "112",
+      "90",
+      "144"
+    ],
+    "correctAnswer": "162"
+  },
+  {
+    "questionNumber": 49,
+    "question": "The students in three batches of a dance class are in the ratio of 2:3:5. If 20 students increase in each batch the ratio changes to 4:5:7. Find the total number of students in the three batches before the increase.",
+    "askedIn": "SSC PHASE XI 27/06/2023 (Shift-01)",
+    "options": [
+      "120",
+      "100",
+      "150",
+      "80"
+    ],
+    "correctAnswer": "100"
+  },
+  {
+    "questionNumber": 50,
+    "question": "R pays ₹100 to P with ₹5, ₹2 and ₹1 coins. The total number of coins used for paying are 40. What is the number of coins of denomination ₹5 in the payment?",
+    "askedIn": "SSC CGL 09/09/2024 (Shift-01)",
+    "options": [
+      "16",
+      "17",
+      "18",
+      "13"
+    ],
+    "correctAnswer": "13"
+  },
+  {
+    "questionNumber": 51,
+    "question": "A bag contains 50 Paisa, 25 Paisa and 10 Paisa coins in the ratio 16:8:20, amounting to Rs.384. Find the number of 10 Paisa coins.",
+    "askedIn": "RRB NTPC GL CBT-I 20/06/2025 (Shift-02)",
+    "options": [
+      "660",
+      "668",
+      "640",
+      "696"
+    ],
+    "correctAnswer": "640"
+  },
+  {
+    "questionNumber": 52,
+    "question": "In a bag there are coins of ₹5, ₹10 and ₹20 denominations. The total number of coins in the bag is 240. If the number of coins of ₹5, ₹10 and ₹20 denominations are in the ratio of 2:3:5, then what is the total amount of money in the bag?",
+    "askedIn": "SSC MTS 12/07/2022 (Shift-02)",
+    "options": [
+      "₹3540",
+      "₹4600",
+      "₹4620",
+      "₹3360"
+    ],
+    "correctAnswer": "₹3360"
+  },
+  {
+    "questionNumber": 53,
+    "question": "A payment of ₹120 is made with ₹10, ₹5 and ₹2 coins. A total of 25 coins are used. Which of the following is the number of ₹10 coins used in the payment?",
+    "askedIn": "SSC CGL 12/09/2024 (Shift-01)",
+    "options": [
+      "6",
+      "4",
+      "10",
+      "8"
+    ],
+    "correctAnswer": "8"
+  },
+  {
+    "questionNumber": 54,
+    "question": "P pays Q a sum of ₹150 using coins of ₹2, ₹5 and ₹10. He uses a total of 50 coins. If the ratio of ₹2 and ₹5 coins used is 5:2, then how many coins of ₹10 are used in the payment?",
+    "askedIn": "SSC CHSL 01/07/2024 (Shift-03)",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "2"
+    ],
+    "correctAnswer": "1"
+  },
+  {
+    "questionNumber": 55,
+    "question": "A bag contains 10 paise, 25 paise, 50 paise and Rs 1 coins in the ratio 14:6:10:5. The total value of all the coins put together is Rs 64.50. If only Rs 1 coins are acceptable and not those of lower denominations, how many additional Rs 1 coins are needed to double the existing amount?",
+    "askedIn": "UPSI 21/12/2017 (Shift-02)",
+    "options": [
+      "140",
+      "104",
+      "25",
+      "129"
+    ],
+    "correctAnswer": "104"
+  },
+  {
+    "questionNumber": 56,
+    "question": "The monthly income of two persons is in the ratio of 4:5 and their expenditures are in the ratio 7:9. If each saves ₹50 per month, then their monthly incomes are:",
+    "askedIn": "SSC CPO 09/11/2022 (Shift-02)",
+    "options": [
+      "₹900; ₹500",
+      "₹400; ₹500",
+      "₹700; ₹900",
+      "₹400; ₹700"
+    ],
+    "correctAnswer": "₹400; ₹500"
+  },
+  {
+    "questionNumber": 57,
+    "question": "The ratio of incomes of two persons is 10:6 and the ratio of their expenditure is 18:10. If they save ₹5,200 and ₹3,600 respectively, what are their incomes?",
+    "askedIn": "UP CONSTABLE 31/08/2024 (Shift-01)",
+    "options": [
+      "₹9,000, ₹5,400",
+      "₹6,000, ₹3,600",
+      "₹10,000, ₹6,000",
+      "₹16,000, ₹9,600"
+    ],
+    "correctAnswer": "₹16,000, ₹9,600"
+  },
+  {
+    "questionNumber": 58,
+    "question": "The expenditure and savings of a person are in ratio of 4:3. His savings increase by 1/5 of his income and income remains the same. What is the new ratio of his expenditure and savings?",
+    "askedIn": "SSC CHSL 10/03/2023 (Shift-01)",
+    "options": [
+      "12:17",
+      "14:17",
+      "13:22",
+      "15:13"
+    ],
+    "correctAnswer": "13:22"
+  },
+  {
+    "questionNumber": 59,
+    "question": "The monthly incomes of A, B and C are in the ratio 2:9:3 and their expenses are in the ratio 3:9:5. If A's saving is half of his total income, then savings of A, B and C are, respectively, in the ratio of:",
+    "askedIn": "SSC CGL 26/09/2024 (Shift-03)",
+    "options": [
+      "3:9:2",
+      "2:5:2",
+      "3:18:4",
+      "5:18:4"
+    ],
+    "correctAnswer": "3:18:4"
+  },
+  {
+    "questionNumber": 60,
+    "question": "The income of A is 2/3 of B's income and the expenditure of A is 3/4 of B's expenditure. If 1/3 of the income of B is equal to the expenditure of A, then the ratio of the savings of A to those of B is:",
+    "askedIn": "SSC CGL TIER-II 29/01/2022",
+    "options": [
+      "5:3",
+      "3:5",
+      "4:3",
+      "3:4"
+    ],
+    "correctAnswer": "3:5"
+  },
+  {
+    "questionNumber": 61,
+    "question": "Nikhil and Ritu have incomes in the ratio of 2:1, they spend in the ratio of 5:3 and save in the ratio of 4:1. If the total monthly savings of both Nikhil and Ritu together is ₹10,000, find the monthly income of each.",
+    "askedIn": "UP CONSTABLE 23/08/2024 (Shift-01)",
+    "options": [
+      "₹2,000, ₹1,000",
+      "₹8,000, ₹4,000",
+      "₹28,000, ₹14,000",
+      "₹10,000, ₹5,000"
+    ],
+    "correctAnswer": "₹28,000, ₹14,000"
+  },
+  {
+    "questionNumber": 62,
+    "question": "The ratio of the incomes of A and B in 2020 was 5:4. The ratios of their individual incomes in 2020 and 2021 were 4:5 and 2:3 respectively. If the total income of A and B in 2021 was ₹7,05,600, then what was the income (in ₹) of B in 2021?",
+    "askedIn": "SSC CGL TIER-II 03/02/2022",
+    "options": [
+      "₹3,45,600",
+      "₹2,79,700",
+      "₹3,60,000",
+      "₹4,25,900"
+    ],
+    "correctAnswer": "₹3,45,600"
+  },
+  {
+    "questionNumber": 63,
+    "question": "The ratio of last year income of A, B and C is 3:4:5. While the ratio of their last year income to current year income is 4:5, 2:3 and 3:4. If their total current year income is Rs. 98,500, then find out the present income of (B+C).",
+    "askedIn": null,
+    "options": [
+      "Rs.72000",
+      "Rs.74000",
+      "Rs.76000",
+      "Rs.78000"
+    ],
+    "correctAnswer": "Rs.76000"
+  },
+  {
+    "questionNumber": 64,
+    "question": "The ratio of market prices of jowar and gram is 2:5 and the ratio of quantities consumed in a family is 4:7. Find the ratio of expenditure of jowar and gram.",
+    "askedIn": "RRB NTPC GL CBT-I 11/06/2025 (Shift-03)",
+    "options": [
+      "9:36",
+      "1:2",
+      "8:35",
+      "37:10"
+    ],
+    "correctAnswer": "8:35"
+  },
+  {
+    "questionNumber": 65,
+    "question": "The ratio of prices of coffee and tea is 3:4 and the ratio of their quantities consumed by a family is 4:7. Find the ratio of expenditure on coffee and tea.",
+    "askedIn": "SSC CHSL MAINS 10/01/2024 (Shift-01)",
+    "options": [
+      "7:4",
+      "3:7",
+      "4:7",
+      "7:3"
+    ],
+    "correctAnswer": "3:7"
+  },
+  {
+    "questionNumber": 66,
+    "question": "If (x - 2y + 8z) : (y - 3z + 4w) : (4x + 5z - 7w) = 3:4:7 then find (6x + 2y - 17w)/w = ?",
+    "askedIn": null,
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": "5"
+  },
+  {
+    "questionNumber": 67,
+    "question": "The ratio of the number of employees (male and female) in offices A and B is 2:3. The ratio of the female employees in A and B is 1:2, and the ratio of the female employees in A to the total employees in A is 1:3. What is the ratio of the male employees in A and B?",
+    "askedIn": "SSC Phase IX 2022",
+    "options": [
+      "6:7",
+      "5:6",
+      "4:5",
+      "3:2"
+    ],
+    "correctAnswer": "4:5"
+  },
+  {
+    "questionNumber": 68,
+    "question": "The expenses of a family on wheat, vegetables and oil are in the ratio 12:8:5. The prices of these items increased by 50%, 25% and 40%, respectively. The total expenses of the family on these items increased by:",
+    "askedIn": "SSC CHSL 02/06/2022 (Shift-01)",
+    "options": [
+      "40%",
+      "38%",
+      "44%",
+      "42%"
+    ],
+    "correctAnswer": "40%"
+  },
+  {
+    "questionNumber": 69,
+    "question": "Salaries of B, C, D and E are in the ratio of 2:3:4:5 respectively. Their salaries are increased by 20 percent, 30 percent, 40 percent and 50 percent respectively. If the increased salary of D is Rs.560, then what is the sum of the original salaries of B, C, D and E?",
+    "askedIn": "SSC CGL Mains (08/08/2022)",
+    "options": [
+      "Rs.1260",
+      "Rs.1820",
+      "Rs.1560",
+      "Rs.1400"
+    ],
+    "correctAnswer": "Rs.1400"
+  },
+  {
+    "questionNumber": 70,
+    "question": "The Price of a semi-precious stone weighing 48 g, is Rs 2,30,400. It is broken into two pieces whose weights are in the ratio of 5:7. If the price is proportional to the square of the weight, then the loss (in Rs) incurred, is:",
+    "askedIn": "SSC CGL MTS 2020",
+    "options": [
+      "112000",
+      "40000",
+      "118400",
+      "78400"
+    ],
+    "correctAnswer": "112000"
+  },
+  {
+    "questionNumber": 71,
+    "question": "The value of a stone is proportional to the square of its weight. A stone worth Rs.1,20,000 is broken into two pieces in the ratio of 2:3. What is the total price of the two small stones?",
+    "askedIn": "SSC MTS 07/07/2022 (Shift-01)",
+    "options": [
+      "Rs. 68,400",
+      "Rs. 62,400",
+      "Rs. 66,500",
+      "Rs. 65,400"
+    ],
+    "correctAnswer": "Rs. 62,400"
+  },
+  {
+    "questionNumber": 72,
+    "question": "The cost of a diamond varies directly as the square of its weight. Once, this diamond broke into four pieces with weights in the ratio of 4:3:2:1. When the pieces were sold, the merchant got Rs.63,000 less than that of one piece. Find the original price of the diamond.",
+    "askedIn": "SSC CGL 19/09/2024 (Shift-01)",
+    "options": [
+      "Rs.86,000",
+      "Rs.80,000",
+      "Rs.90,000",
+      "Rs.75,000"
+    ],
+    "correctAnswer": "Rs.90,000"
+  },
+  {
+    "questionNumber": 73,
+    "question": "There are senior officers and secretaries in an office. If 15 secretaries go on leave, then each secretary has two senior officers above him. After 45 senior officers go on leave, now each senior officer has 5 secretaries under him. Then find how many secretaries were there in the beginning.",
+    "askedIn": "UP CONSTABLE 23/08/2024 (Shift-02)",
+    "options": [
+      "30",
+      "40",
+      "25",
+      "35"
+    ],
+    "correctAnswer": "40"
+  },
+  {
+    "questionNumber": 74,
+    "question": "In a party hall, there are people in blue and red dresses. The ratio of number of men in blue to the number of women in red is 3:7. The ratio of men in red to the number of women in blue is 2:1. If the ratio of number of people in blue to the number of people in red is 35:76, then what is the ratio of number of men to the number of women?",
+    "askedIn": "SSC MTS 04/05/2023 (Shift-01)",
+    "options": [
+      "47:51",
+      "40:43",
+      "62:57",
+      "52:59"
+    ],
+    "correctAnswer": "52:59"
+  },
+  {
+    "questionNumber": 75,
+    "question": "There are 160 multiple choice questions in a test. 4 marks are allotted for a correct answer and 1 mark is deducted for a wrong answer or un-attempted question from the total score of correct answers. If a candidate scored 400 marks in the test, how many questions did he answer correctly?",
+    "askedIn": "SSC CHSL 03/07/2024 (Shift-04)",
+    "options": [
+      "110",
+      "115",
+      "112",
+      "120"
+    ],
+    "correctAnswer": "112"
+  },
+  {
+    "questionNumber": 76,
+    "question": "In an election four candidates were there in the fray, out of which three were nominated from the three national parties and they got votes in a ratio of 2:3:4. The total votes polled were 1,89,000 and the fourth candidate got 18,000 votes. The votes obtained by the three candidates of the national parties are respectively: (assuming all votes valid)",
+    "askedIn": "SSC CHSL 06/06/2022 (Shift-02)",
+    "options": [
+      "38,000, 57,000 and 76,000",
+      "34,000, 51,000 and 68,000",
+      "36,000, 54,000 and 72,000",
+      "40,000, 60,000 and 80,000"
+    ],
+    "correctAnswer": "38,000, 57,000 and 76,000"
+  },
+  {
+    "questionNumber": 77,
+    "question": "In an examination, the number of students who passed and the number of students who failed were in the ratio 25:4. If one more student had appeared and passed and the number of failed students was 3 less than earlier, the ratio of passed students to failed students would have become 22:3. What is the difference between the number of students who, initially, passed the examination and the number of students who failed the examination?",
+    "askedIn": "SSC CGL MAINS 03/02/2022",
+    "options": [
+      "132",
+      "126",
+      "174",
+      "150"
+    ],
+    "correctAnswer": "126"
+  },
+  {
+    "questionNumber": 78,
+    "question": "In a class, the ratio of the number of boys to that of girls is 3:5. The number of students who passed to that of who failed is 7:3. Among boys, the number of those who passed to those who failed is in the ratio 2:1. Among girls, what is the ratio of the number of girls who passed to those who failed?",
+    "askedIn": "IB ACIO GRADE II 18/01/2024 (Shift-04)",
+    "options": [
+      "15:8",
+      "9:4",
+      "18:7",
+      "12:5"
+    ],
+    "correctAnswer": "18:7"
+  },
+  {
+    "questionNumber": 79,
+    "question": "A blended tea in a barrel contains Assam, Darjeeling and Nilgiri Hills tea in the ratio 2:3:1. Another barrel contains Darjeeling, Nilgiri Hills and Kangra Valley tea in the ratio 5:4:3. If equal weights of both blended tea mix together to make a new brand, then the weight of Kangra valley per kilogram in the new brand is:",
+    "askedIn": "SSC CHSL 10/08/2023 (Shift-03)",
+    "options": [
+      "500 gm",
+      "100 gm",
+      "250 gm",
+      "125 gm"
+    ],
+    "correctAnswer": "125 gm"
+  },
+  {
+    "questionNumber": 80,
+    "question": "A man ordered 4 pairs of black socks and some pairs of brown socks. The price of a black pair is double to that of a brown pair. While preparing the bill, the clerk did a mistake and interchanged the number of black and brown pairs and this increased the bill by 50%. The ratio of the number of black and brown pairs of socks in the original order was?",
+    "askedIn": null,
+    "options": [
+      "4:1",
+      "2:1",
+      "1:4",
+      "1:2"
+    ],
+    "correctAnswer": "1:4"
+  },
+  {
+    "questionNumber": 81,
+    "question": "There are 3 numbers A, B & C. It is observed that if 8, 15 and 21 is subtracted respectively from these three quantities then they will be in the ratio of 17:9:10. If sum of these three numbers is 1484 then what will be the value of ((A+B-C)/(C-B))?",
+    "askedIn": null,
+    "options": [
+      "321/23",
+      "315/13",
+      "183/15",
+      "225/17"
+    ],
+    "correctAnswer": "321/23"
+  },
+  {
+    "questionNumber": 82,
+    "question": "The total number of men, women and children working in a factory is 40. They earn ₹1343 in a day. If the total wages of men to that of women to that of children is in the ratio of 35:26:18 and if the wages of a man, a woman and a child are in the ratio of 7:13:6, then how much does a child earn in a day?",
+    "askedIn": null,
+    "options": [
+      "₹22.40",
+      "₹37.50",
+      "₹25.50",
+      "₹23.50"
+    ],
+    "correctAnswer": "₹25.50"
+  },
+  {
+    "questionNumber": 83,
+    "question": "Sohit and Rohit have a certain sum of money in the ratio of 17:14 and they spend their money on purchasing books in the ratio of 12:8. After purchasing books each of them has ₹3,392. Find the amount of money that Sohit initially had.",
+    "askedIn": "RRB NTPC Gra. Level - I 24/06/2025 (Shift-03)",
+    "options": [
+      "₹7,208",
+      "₹7,218",
+      "₹7,274",
+      "₹7,256"
+    ],
+    "correctAnswer": "₹7,208"
+  },
+  {
+    "questionNumber": 84,
+    "question": "On the whole surface of earth the ratio of land and water is 3:5. The land and water in northern hemisphere is 7:9. Then what is the ratio of land & water in southern hemisphere?",
+    "askedIn": null,
+    "options": [
+      "6:7",
+      "5:11",
+      "9:2",
+      "3:2"
+    ],
+    "correctAnswer": "5:11"
+  },
+  {
+    "questionNumber": 85,
+    "question": "The ratio of the number of students in the morning shift and the afternoon shift of a school was 13:9. After 'n' students moved from the morning shift to the afternoon shift, the said ratio became 19:14. Now 153 new students got admission in the school, and these students joined the morning and the afternoon shifts in the ratio 6:11 respectively. If the ratio of the number of students in the morning shift and the afternoon shift of the school after the new admissions became 24:19, find the value of 'n'.",
+    "askedIn": "IB ACIO GRADE II 17/01/2024 (Shift-02)",
+    "options": [
+      "24",
+      "30",
+      "36",
+      "27"
+    ],
+    "correctAnswer": "27"
+  },
+  {
+    "questionNumber": 86,
+    "question": "According to Mr. Sharma's will, half of his property goes to his wife and the rest is equally divided between his two sons, Ravi and Raj. Some years later, Ravi dies and leaves half of his property to his widow and rest to his brother Raj. When Raj dies he leaves half of his property to his widow and remaining to his mother, who is still alive. The mother now owns ₹88,000 worth of the property. The total worth of the property of Mr. Sharma was",
+    "askedIn": "UPSC CDS-II 2018",
+    "options": [
+      "₹1,00,000",
+      "₹1,24,000",
+      "₹1,28,000",
+      "₹1,32,000"
+    ],
+    "correctAnswer": "₹1,28,000"
+  },
+  {
+    "questionNumber": 87,
+    "question": "The ratio between the number of students in three different classes A, B and C is 8:9:11 respectively. In an exam, from class A, class B and class C, 4/5 th, 14/15 th and 10/11 th of total number of students are passed respectively. If the difference between the number of passed students from class A and class C is 18 then find the total number of students failed in all three classes together.",
+    "askedIn": null,
+    "options": [
+      "16",
+      "14",
+      "12",
+      "10"
+    ],
+    "correctAnswer": "16"
+  },
+  {
+    "questionNumber": 88,
+    "question": "Find the compound ratio of the following 1:2 and 3:5",
+    "askedIn": null,
+    "options": [
+      "3:10",
+      "3:5",
+      "10:3",
+      "5:3"
+    ],
+    "correctAnswer": "3:10"
+  },
+  {
+    "questionNumber": 89,
+    "question": "Find the mixed ratio of the following 1:2, 3:5 and 5:9.",
+    "askedIn": null,
+    "options": [
+      "1:6",
+      "1:5",
+      "1:3",
+      "1:18"
+    ],
+    "correctAnswer": "1:6"
+  },
+  {
+    "questionNumber": 90,
+    "question": "Find the compound ratio of the following 0.45 : 0.55 and 1/9 : 4/5",
+    "askedIn": null,
+    "options": [
+      "5:41",
+      "5:44",
+      "44:5",
+      "41:5"
+    ],
+    "correctAnswer": "5:44"
+  },
+  {
+    "questionNumber": 91,
+    "question": "Find the duplicate ratio of 14:17.",
+    "askedIn": null,
+    "options": [
+      "196:289",
+      "169:256",
+      "197:729",
+      "576:729"
+    ],
+    "correctAnswer": "196:289"
+  },
+  {
+    "questionNumber": 92,
+    "question": "Find the duplicate ratio of 0.04:0.005.",
+    "askedIn": null,
+    "options": [
+      "1:64",
+      "64:1",
+      "16:25",
+      "25:16"
+    ],
+    "correctAnswer": "64:1"
+  },
+  {
+    "questionNumber": 93,
+    "question": "Find the subduplicate ratio of 16:25.",
+    "askedIn": null,
+    "options": [
+      "4:5",
+      "5:4",
+      "256:625",
+      "625:256"
+    ],
+    "correctAnswer": "4:5"
+  },
+  {
+    "questionNumber": 94,
+    "question": "Find the subduplicate ratio of 1/0.225 : 1/0.256.",
+    "askedIn": null,
+    "options": [
+      "16:15",
+      "15:16",
+      "225:256",
+      "256:225"
+    ],
+    "correctAnswer": "16:15"
+  },
+  {
+    "questionNumber": 95,
+    "question": "Find the triplicate ratio of 3:5.",
+    "askedIn": null,
+    "options": [
+      "27:125",
+      "9:25",
+      "3^(1/3) : 5^(1/3)",
+      "125:27"
+    ],
+    "correctAnswer": "27:125"
+  },
+  {
+    "questionNumber": 96,
+    "question": "Find the triplicate ratio of 1/0.49 : 1/0.343",
+    "askedIn": null,
+    "options": [
+      "7:10",
+      "10:7",
+      "343:1000",
+      "1000:343"
+    ],
+    "correctAnswer": "343:1000"
+  },
+  {
+    "questionNumber": 97,
+    "question": "Find the subtriplicate ratio of 512:729.",
+    "askedIn": null,
+    "options": [
+      "8:9",
+      "8:7",
+      "7:8",
+      "7:9"
+    ],
+    "correctAnswer": "8:9"
+  },
+  {
+    "questionNumber": 98,
+    "question": "Find the subtriplicate ratio of 1/0.343 : 1/0.512",
+    "askedIn": null,
+    "options": [
+      "7:8",
+      "8:7",
+      "6:7",
+      "7:6"
+    ],
+    "correctAnswer": "8:7"
+  },
+  {
+    "questionNumber": 99,
+    "question": "Find the inverse ratio of 5:8.",
+    "askedIn": null,
+    "options": [
+      "8:5",
+      "16:25",
+      "64:25",
+      "25:64"
+    ],
+    "correctAnswer": "8:5"
+  },
+  {
+    "questionNumber": 100,
+    "question": "Find the inverse ratio of 1/64 : 1/512.",
+    "askedIn": null,
+    "options": [
+      "8:1",
+      "1:8",
+      "64:1",
+      "1:64"
+    ],
+    "correctAnswer": "1:8"
+  }
+]
