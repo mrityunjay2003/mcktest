@@ -1,36 +1,35 @@
 <!doctype html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Mock Test Hall</title>
-        <link rel="stylesheet" href="style.css" />
-        <script src="script.js"></script>
-    </head>
-    <body>
-        <!-- ============ SETUP ============ -->
-        <section id="setup" class="screen active">
-            <div class="wrap">
-                <div class="masthead">
-                    <div class="eyebrow">Question paper · Set A</div>
-                    <h1>Mock Test Hall</h1>
-                    <p>
-                        Load a question paper as JSON, set your time, and sit
-                        the test. Every second on every question is recorded for
-                        the analysis at the end.
-                    </p>
-                </div>
 
-                <div class="panel">
-                    <h2>1 · Question paper (JSON)</h2>
-                    <p class="hint">
-                        Paste your questions below, upload a .json file, or load
-                        the sample paper to try it out.
-                    </p>
-                    <textarea
-                        id="jsonInput"
-                        spellcheck="false"
-                        placeholder='[
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mock Test Hall</title>
+    <link rel="stylesheet" href="style.css" />
+
+</head>
+
+<body>
+    <!-- ============ SETUP ============ -->
+    <section id="setup" class="screen active">
+        <div class="wrap">
+            <div class="masthead">
+                <div class="eyebrow">Question paper · Set A</div>
+                <h1>Mock Test Hall</h1>
+                <p>
+                    Load a question paper as JSON, set your time, and sit
+                    the test. Every second on every question is recorded for
+                    the analysis at the end.
+                </p>
+            </div>
+
+            <div class="panel">
+                <h2>1 · Question paper (JSON)</h2>
+                <p class="hint">
+                    Paste your questions below, upload a .json file, or load
+                    the sample paper to try it out.
+                </p>
+                <textarea id="jsonInput" spellcheck="false" placeholder='[
   {
     "questionNumber": 1,
     "question": "…",
@@ -38,22 +37,17 @@
     "options": ["…", "…", "…", "…"],
     "correctAnswer": "…"
   }
-]'
-                    ></textarea>
-                    <div class="setup-row">
-                        <label class="btn filebtn"
-                            >Upload .json file<input
-                                type="file"
-                                id="fileInput"
-                                accept=".json,application/json"
-                        /></label>
-                        <button class="btn ghost" id="sampleBtn">
-                            Load sample paper
-                        </button>
-                    </div>
-                    <details class="schema">
-                        <summary>Accepted format</summary>
-                        <pre>
+]'></textarea>
+                <div class="setup-row">
+                    <label class="btn filebtn">Upload .json file<input type="file" id="fileInput"
+                            accept=".json,application/json" /></label>
+                    <button class="btn ghost" id="sampleBtn">
+                        Load sample paper
+                    </button>
+                </div>
+                <details class="schema">
+                    <summary>Accepted format</summary>
+                    <pre>
 [
   {
     "questionNumber": 1,          // or "qno" / "question_number" / "sno"
@@ -63,179 +57,150 @@
     "correctAnswer": "opt B"      // any of: exact option text,
   }                               // a letter "A"–"Z", or a 1-based
 ]                                 // number (1 = first option)</pre>
-                    </details>
-                    <div id="loadStatus" role="status"></div>
-                </div>
-
-                <div class="panel">
-                    <h2>2 · Timing</h2>
-                    <div class="dur-row">
-                        <input
-                            type="number"
-                            id="durationInput"
-                            min="1"
-                            max="600"
-                            value="0"
-                            aria-label="Test duration in minutes"
-                        />
-                        <span style="font-size: 14px; color: var(--muted)"
-                            >minutes total &nbsp;·&nbsp; defaults to 1 minute
-                            per question when the paper is loaded</span
-                        >
-                    </div>
-                </div>
-
-                <button class="btn primary" id="startBtn" disabled>
-                    Start test
-                </button>
+                </details>
+                <div id="loadStatus" role="status"></div>
             </div>
-        </section>
 
-        <!-- ============ TEST ============ -->
-        <section id="test" class="screen">
-            <div class="testbar">
-                <div class="testbar-inner">
-                    <div>
-                        <div class="title" id="testTitle">Mock Test</div>
-                        <div class="sub" id="testProgress">QUESTION 1 / 10</div>
-                    </div>
-                    <div class="clock" id="clock" aria-live="off">00:00</div>
+            <div class="panel">
+                <h2>2 · Timing</h2>
+                <div class="dur-row">
+                    <input type="number" id="durationInput" min="1" max="600" value="0"
+                        aria-label="Test duration in minutes" />
+                    <span style="font-size: 14px; color: var(--muted)">minutes total &nbsp;·&nbsp; defaults to 1 minute
+                        per question when the paper is loaded</span>
                 </div>
             </div>
 
-            <div class="testgrid">
+            <button class="btn primary" id="startBtn" disabled>
+                Start test
+            </button>
+        </div>
+    </section>
+
+    <!-- ============ TEST ============ -->
+    <section id="test" class="screen">
+        <div class="testbar">
+            <div class="testbar-inner">
                 <div>
-                    <div class="qcard">
-                        <div class="qmeta">
-                            <span class="qnum"
-                                >Question <b id="qNumLabel">1</b></span
-                            >
-                            <span class="tag askedin" id="askedInTag">—</span>
-                        </div>
-                        <div class="qtext" id="qText"></div>
-                        <div
-                            id="optList"
-                            role="radiogroup"
-                            aria-label="Answer options"
-                        ></div>
-                        <div class="qactions">
-                            <button class="btn ghost" id="clearBtn">
-                                Clear response
-                            </button>
-                            <button class="btn ghost" id="markBtn">
-                                Mark for review
-                            </button>
-                            <span class="spacer"></span>
-                            <button class="btn" id="prevBtn">← Previous</button>
-                            <button class="btn primary" id="nextBtn">
-                                Save &amp; next →
-                            </button>
-                        </div>
-                        <div class="qtimer">
-                            Time on this question: <b id="qTimer">0:00</b>
-                        </div>
-                    </div>
+                    <div class="title" id="testTitle">Mock Test</div>
+                    <div class="sub" id="testProgress">QUESTION 1 / 10</div>
                 </div>
-
-                <aside class="palette">
-                    <h3>Question palette</h3>
-                    <div class="pgrid" id="pgrid"></div>
-                    <div class="legend">
-                        <span><i class="dot answered"></i> Answered</span>
-                        <span><i class="dot seen"></i> Seen, not answered</span>
-                        <span
-                            ><i class="dot marked"></i> Marked for review</span
-                        >
-                        <span><i class="dot"></i> Not visited</span>
-                    </div>
-                    <button class="btn danger" id="submitBtn">
-                        Submit test
-                    </button>
-                </aside>
+                <div class="clock" id="clock" aria-live="off">00:00</div>
             </div>
-        </section>
+        </div>
 
-        <!-- ============ RESULTS ============ -->
-        <section id="results" class="screen">
-            <div class="wrap">
-                <div class="verdict">
-                    <div>
-                        <div class="eyebrow">Result sheet</div>
-                        <h1 id="verdictTitle">Test complete</h1>
-                        <div class="scoreline">
-                            Score <b id="scoreBig">0 / 0</b> &nbsp;·&nbsp;
-                            accuracy <b id="accBig">0%</b>
-                        </div>
+        <div class="testgrid">
+            <div>
+                <div class="qcard">
+                    <div class="qmeta">
+                        <span class="qnum">Question <b id="qNumLabel">1</b></span>
+                        <span class="tag askedin" id="askedInTag">—</span>
                     </div>
-                    <div class="resactions">
-                        <button class="btn" id="retakeBtn">
-                            Retake this paper
+                    <div class="qtext" id="qText"></div>
+                    <div id="optList" role="radiogroup" aria-label="Answer options"></div>
+                    <div class="qactions">
+                        <button class="btn ghost" id="clearBtn">
+                            Clear response
                         </button>
-                        <button class="btn ghost" id="newPaperBtn">
-                            Load a new paper
+                        <button class="btn ghost" id="markBtn">
+                            Mark for review
+                        </button>
+                        <span class="spacer"></span>
+                        <button class="btn" id="prevBtn">← Previous</button>
+                        <button class="btn primary" id="nextBtn">
+                            Save &amp; next →
                         </button>
                     </div>
-                </div>
-
-                <div class="statrow" id="statRow"></div>
-
-                <div class="rpanel">
-                    <h2>Time spent per question</h2>
-                    <div class="chartwrap" id="chartWrap"></div>
-                    <div class="chart-legend">
-                        <span
-                            ><i
-                                class="sq"
-                                style="background: var(--correct)"
-                            ></i
-                            >Correct</span
-                        >
-                        <span
-                            ><i class="sq" style="background: var(--wrong)"></i
-                            >Wrong</span
-                        >
-                        <span
-                            ><i class="sq" style="background: var(--warn)"></i
-                            >Skipped</span
-                        >
-                        <span>— dashed line = average time per question</span>
+                    <div class="qtimer">
+                        Time on this question: <b id="qTimer">0:00</b>
                     </div>
                 </div>
+            </div>
 
-                <div class="rpanel">
-                    <h2>What the timings say</h2>
-                    <div class="insights" id="insightList"></div>
+            <aside class="palette">
+                <h3>Question palette</h3>
+                <div class="pgrid" id="pgrid"></div>
+                <div class="legend">
+                    <span><i class="dot answered"></i> Answered</span>
+                    <span><i class="dot seen"></i> Seen, not answered</span>
+                    <span><i class="dot marked"></i> Marked for review</span>
+                    <span><i class="dot"></i> Not visited</span>
                 </div>
+                <button class="btn danger" id="submitBtn">
+                    Submit test
+                </button>
+            </aside>
+        </div>
+    </section>
 
-                <div class="rpanel">
-                    <h2>
-                        Question-wise review
-                        <span
-                            style="
+    <!-- ============ RESULTS ============ -->
+    <section id="results" class="screen">
+        <div class="wrap">
+            <div class="verdict">
+                <div>
+                    <div class="eyebrow">Result sheet</div>
+                    <h1 id="verdictTitle">Test complete</h1>
+                    <div class="scoreline">
+                        Score <b id="scoreBig">0 / 0</b> &nbsp;·&nbsp;
+                        accuracy <b id="accBig">0%</b>
+                    </div>
+                </div>
+                <div class="resactions">
+                    <button class="btn" id="retakeBtn">
+                        Retake this paper
+                    </button>
+                    <button class="btn ghost" id="newPaperBtn">
+                        Load a new paper
+                    </button>
+                </div>
+            </div>
+
+            <div class="statrow" id="statRow"></div>
+
+            <div class="rpanel">
+                <h2>Time spent per question</h2>
+                <div class="chartwrap" id="chartWrap"></div>
+                <div class="chart-legend">
+                    <span><i class="sq" style="background: var(--correct)"></i>Correct</span>
+                    <span><i class="sq" style="background: var(--wrong)"></i>Wrong</span>
+                    <span><i class="sq" style="background: var(--warn)"></i>Skipped</span>
+                    <span>— dashed line = average time per question</span>
+                </div>
+            </div>
+
+            <div class="rpanel">
+                <h2>What the timings say</h2>
+                <div class="insights" id="insightList"></div>
+            </div>
+
+            <div class="rpanel">
+                <h2>
+                    Question-wise review
+                    <span style="
                                 font-weight: 400;
                                 color: var(--muted);
                                 font-size: 12px;
-                            "
-                            >(click a row to see the full question)</span
-                        >
-                    </h2>
-                    <div style="overflow-x: auto">
-                        <table class="review">
-                            <thead>
-                                <tr>
-                                    <th>Q</th>
-                                    <th>Asked in</th>
-                                    <th>Your answer</th>
-                                    <th>Correct answer</th>
-                                    <th>Time</th>
-                                    <th>Result</th>
-                                </tr>
-                            </thead>
-                            <tbody id="reviewBody"></tbody>
-                        </table>
-                    </div>
+                            ">(click a row to see the full question)</span>
+                </h2>
+                <div style="overflow-x: auto">
+                    <table class="review">
+                        <thead>
+                            <tr>
+                                <th>Q</th>
+                                <th>Asked in</th>
+                                <th>Your answer</th>
+                                <th>Correct answer</th>
+                                <th>Time</th>
+                                <th>Result</th>
+                            </tr>
+                        </thead>
+                        <tbody id="reviewBody"></tbody>
+                    </table>
                 </div>
             </div>
-        </section>
-    </body>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+
 </html>
