@@ -1,0 +1,362 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "If (a+b): (b+c): (c+a) = 7:6:5 and a+b+c = 27, then what is the value of 1/a : 1/b : 1/c?",
+    "askedIn": null,
+    "options": [
+      "3:6:4",
+      "3:4:2",
+      "3:2:4",
+      "4:3:6"
+    ],
+    "correctAnswer": "4:3:6"
+  },
+  {
+    "questionNumber": 2,
+    "question": "The monthly incomes of A & B are in the ratio 4: 5. Their expenses are in the ratio 5: 6. If 'A' saves Rs.25 per month, and 'B' saves Rs.50 per month, what are their respective incomes.",
+    "askedIn": null,
+    "options": [
+      "400, 500",
+      "240, 300",
+      "440, 550",
+      "320, 440"
+    ],
+    "correctAnswer": "400, 500"
+  },
+  {
+    "questionNumber": 3,
+    "question": "A company make a profit of Rs.9,00,000, 20% of which is paid as taxes. If the rest is divided among the partners P, Q and R in the ratio of 1 : 1(1/2) : 2, then the shares of P, Q and R are respectively:",
+    "askedIn": null,
+    "options": [
+      "2,40,000; 3,20,000; 1,60,000",
+      "3,20,000; 2,40,000; 1,60,000",
+      "1,60,000; 3,20,000; 2,40,000",
+      "1,60,000; 2,40,000; 3,20,000"
+    ],
+    "correctAnswer": "1,60,000; 2,40,000; 3,20,000"
+  },
+  {
+    "questionNumber": 4,
+    "question": "Rishi and Sarita have ₹4,760. If 9/16 of Rishi's amount is equal to 3/4 of Sarita's amount, how much does Sarita have?",
+    "askedIn": null,
+    "options": [
+      "₹2,720",
+      "₹3,570",
+      "₹2,040",
+      "₹2,190"
+    ],
+    "correctAnswer": "₹2,040"
+  },
+  {
+    "questionNumber": 5,
+    "question": "The numbers of coins of 25 paisa, 50 paisa, ₹2 and ₹5 are in the ratio 5:4:3: 1 respectively. If the total amount of coins is ₹285, then what will be the difference between the number of 25 paisa and ₹5 coins?",
+    "askedIn": null,
+    "options": [
+      "60",
+      "30",
+      "80",
+      "40"
+    ],
+    "correctAnswer": "80"
+  },
+  {
+    "questionNumber": 6,
+    "question": "Certain sum is divided among A, B, C and D such that the ratio of the shares of A:B = 1:3; B:C = 2:5; C:D = 2:3. If the difference between the shares of B and D is ₹6,435, then the total sum (in ₹) is:",
+    "askedIn": null,
+    "options": [
+      "15,477",
+      "17,457",
+      "14,775",
+      "17,745"
+    ],
+    "correctAnswer": "17,745"
+  },
+  {
+    "questionNumber": 7,
+    "question": "Rice worth, ₹504 per kg and, ₹540 per kg are mixed with the third variety in the ratio 1: 1: 2. If the mixture is worth, ₹612 per kg. Find the price (per kg in ₹) of the third variety.",
+    "askedIn": null,
+    "options": [
+      "₹630",
+      "₹702",
+      "₹764",
+      "₹522"
+    ],
+    "correctAnswer": "₹702"
+  },
+  {
+    "questionNumber": 8,
+    "question": "The income of A is 2/3 of B's income and the expenditure of A is 3/4 of B's expenditure. If 1/3 of the income of B is equal to the expenditure of A, then the ratio of the savings of A to those of B is:",
+    "askedIn": null,
+    "options": [
+      "5:3",
+      "3:5",
+      "4:3",
+      "3:4"
+    ],
+    "correctAnswer": "3:5"
+  },
+  {
+    "questionNumber": 9,
+    "question": "Rewa has some hens and some goats. If the total number of animal heads is 100 and the total number of animal feet is 348, then what is the total number of goats with Rewa?",
+    "askedIn": null,
+    "options": [
+      "76",
+      "74",
+      "55",
+      "80"
+    ],
+    "correctAnswer": "74"
+  },
+  {
+    "questionNumber": 10,
+    "question": "A bag contains a total of 180 coins in the denominations of ₹5 and ₹1. Find the number of ₹5 coins in the bag, if the total value of the coins is ₹500.",
+    "askedIn": null,
+    "options": [
+      "100",
+      "60",
+      "120",
+      "80"
+    ],
+    "correctAnswer": "80"
+  },
+  {
+    "questionNumber": 11,
+    "question": "x varies directly as (y² + z²). At y = 1 and z = 2, the value of x is 15. Find the value of z, when x = 39 and y = 2:",
+    "askedIn": null,
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "questionNumber": 12,
+    "question": "Three numbers are in the ratio 4/5 : 5/6 : 9/10. The difference between the smallest and the greatest numbers is 12. Find the number which is neither the smallest nor the greatest.",
+    "askedIn": null,
+    "options": [
+      "96",
+      "108",
+      "100",
+      "104"
+    ],
+    "correctAnswer": "100"
+  },
+  {
+    "questionNumber": 13,
+    "question": "A number 37 is divided into two parts such that 5 times one part and 11 times the other is together equal to 227. Find the value of 9 times the smaller number.",
+    "askedIn": null,
+    "options": [
+      "62",
+      "60",
+      "61",
+      "63"
+    ],
+    "correctAnswer": "63"
+  },
+  {
+    "questionNumber": 14,
+    "question": "If m = 4pq/(p+q), then the value of (m+2p)/(m-2p) + (m+2q)/(m-2q) is:",
+    "askedIn": null,
+    "options": [
+      "2",
+      "4",
+      "2mpq/(p+q)",
+      "None of these"
+    ],
+    "correctAnswer": "2"
+  },
+  {
+    "questionNumber": 15,
+    "question": "A student took five papers in an examination, where the full marks were the same for each paper. His marks in these papers were in the proportion of 6:7:8:9:10. In all papers together, the candidate obtained 60% of total marks. Then the number of papers in which he got more than 50% marks is:",
+    "askedIn": null,
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "questionNumber": 16,
+    "question": "A company is manufacturing boxes of three types: plastic, wood and glass. The ratio of the numbers of plastic, wood and glass boxes is 2: 3: 5. The difference between the numbers of wood and glass boxes is 144. If the number of plastic boxes is increased by 25%, then what will be the number of plastic boxes now?",
+    "askedIn": null,
+    "options": [
+      "144",
+      "216",
+      "360",
+      "180"
+    ],
+    "correctAnswer": "180"
+  },
+  {
+    "questionNumber": 17,
+    "question": "Ratanlal sells rasgullas (a favorite Indian sweets) at Rs.15 per kg. A rasgulla is madeup of flour and sugar in the ratio of 5:3. The ratio of price of sugar and flour is 7:3 (per kg). Thus he earns 66(2/3)% profit. What is the cost price of sugar?",
+    "askedIn": null,
+    "options": [
+      "Rs.10/kg.",
+      "Rs.9/kg.",
+      "Rs.18/kg.",
+      "Rs.14/kg."
+    ],
+    "correctAnswer": "Rs.14/kg."
+  },
+  {
+    "questionNumber": 18,
+    "question": "The cost of a piece of diamond varies with the square of its weight. A diamond of ₹6,084 value is cut into 3 pieces whose weights are in the ratio 3:2:1. Find the loss involved in the cutting.",
+    "askedIn": null,
+    "options": [
+      "₹3,768",
+      "₹3,718",
+      "₹3,168",
+      "₹3,518"
+    ],
+    "correctAnswer": "₹3,718"
+  },
+  {
+    "questionNumber": 19,
+    "question": "The price of a precious stone weighing 48 g, is ₹2,30,400. It is broken into two pieces whose weights are in the ratio of 5: 7. If the price is proportional to the square of the weight, then the loss (in ₹) incurred, is:",
+    "askedIn": null,
+    "options": [
+      "112000",
+      "40000",
+      "118400",
+      "78400"
+    ],
+    "correctAnswer": "112000"
+  },
+  {
+    "questionNumber": 20,
+    "question": "A sum of ₹1250 has to distributed among A, B, C and D. Total share of B and D is equal to (14/11) of total share of A and C. Share of D is half of share of A. Share of C is 1.2 of share of A. What are the shares of A, B, C and D respectively?",
+    "askedIn": null,
+    "options": [
+      "₹250, ₹525, ₹300, ₹125",
+      "₹250, ₹575, ₹300, ₹125",
+      "₹250, ₹575, ₹300, ₹175",
+      "₹350, ₹525, ₹300, ₹125"
+    ],
+    "correctAnswer": "₹250, ₹575, ₹300, ₹125"
+  },
+  {
+    "questionNumber": 21,
+    "question": "Sum of ₹6,300 is divided among A, B, C and D such that the ratio of the combined share of A and D to the combined share of B and C is 11: 10 and the ratio of the share of B and D is 8:9. If C receives ₹1,560, then what is the difference (in ₹) between the share of A and B?",
+    "askedIn": null,
+    "options": [
+      "180",
+      "240",
+      "120",
+      "160"
+    ],
+    "correctAnswer": "240"
+  },
+  {
+    "questionNumber": 22,
+    "question": "The cost of 3 cups and 5 plates is ₹1,080 and the costs of 2 cups and 4 plates is ₹840. Find the ratio of the cost of a cup to the cost of a plate.",
+    "askedIn": null,
+    "options": [
+      "1:3",
+      "2:3",
+      "1:1",
+      "1:2"
+    ],
+    "correctAnswer": "1:3"
+  },
+  {
+    "questionNumber": 23,
+    "question": "The ratio of the number of boys to the number of girls in a school of 1650 students is 6: 5. If 124 new boys are admitted and few new girls are admitted, the ratio changes to 4: 3. What is the ratio of the newly admitted girls to the newly admitted boys?",
+    "askedIn": null,
+    "options": [
+      "4:3",
+      "3:4",
+      "9:62",
+      "62:9"
+    ],
+    "correctAnswer": "9:62"
+  },
+  {
+    "questionNumber": 24,
+    "question": "R pays ₹100 to P with ₹5, ₹2 and ₹1 coins. The total number of coins used for paying are 40. What is the number of coins of denomination ₹5 in the payment?",
+    "askedIn": null,
+    "options": [
+      "16",
+      "17",
+      "18",
+      "13"
+    ],
+    "correctAnswer": "13"
+  },
+  {
+    "questionNumber": 25,
+    "question": "The incomes of P, Q and R are in the ratio 10:12:9 and their expenditures are in the ratio 12: 15: 8. If Q saves 25% of his income, then what is the ratio of the savings of P, Q and R?",
+    "askedIn": null,
+    "options": [
+      "15:14:21",
+      "14:15:21",
+      "21:15:14",
+      "21:14:15"
+    ],
+    "correctAnswer": "14:15:21"
+  },
+  {
+    "questionNumber": 26,
+    "question": "The ratio of the incomes of A and B in the last year was 4: 3. The ratios of their individual incomes in the last year and the present year are 3:4 and 5: 6, respectively. If their total income in the present year is 24.12 lakhs, then the sum of the income (in lakhs) of A in the last year and that of B in the present year is:",
+    "askedIn": null,
+    "options": [
+      "22.17",
+      "21.28",
+      "10.98",
+      "20.52"
+    ],
+    "correctAnswer": "20.52"
+  },
+  {
+    "questionNumber": 27,
+    "question": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option.\nQuestion: The ratio of P's salary to Q's salary is 6: 5. How much is P's expenditure?\nStatement-I: The ratio of P's saving to Q's saving is 3:2\nStatement-II: The ratio of P's expenditure to Q's expenditure is 1: 1\nWhich one of the following is correct in respect of the above Question and the Statements?",
+    "askedIn": null,
+    "options": [
+      "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+      "The Question can be answered by using either Statement alone",
+      "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+      "The Question cannot be answered even by using both the Statements together"
+    ],
+    "correctAnswer": "The Question cannot be answered even by using both the Statements together"
+  },
+  {
+    "questionNumber": 28,
+    "question": "There are 3 numbers A, B & C. It is observed that if 8, 15 and 21 is subtracted respectively from these three quantities then they will be in the ratio of 17: 9: 10. If sum of these three numbers is 1484 then what will be the value of ((A+B-C)/(C-B))?",
+    "askedIn": null,
+    "options": [
+      "321/23",
+      "315/13",
+      "183/15",
+      "225/17"
+    ],
+    "correctAnswer": "321/23"
+  },
+  {
+    "questionNumber": 29,
+    "question": "The ratio of the female and male employee in an office is 3: 5. There is an increase in the number of female employees and a decrease in the number of male employees by the same number then their ratio becomes 7: 9. After the increase the difference between the number of male and the number of female employees is 200. Find the total number of female and male employees before the increase of female employees.",
+    "askedIn": null,
+    "options": [
+      "1000",
+      "900",
+      "1600",
+      "850"
+    ],
+    "correctAnswer": "1600"
+  },
+  {
+    "questionNumber": 30,
+    "question": "Salaries of B, C, D and E are in the ratio of 2:3: 4: 5 respectively. Their salaries are increased by 20 percent, 30 percent, 40 percent and 50 percent respectively. If the increased salary of D is Rs.560, then what is the sum of the original salaries of B, C, D and E?",
+    "askedIn": null,
+    "options": [
+      "1260",
+      "1820",
+      "1560",
+      "1400"
+    ],
+    "correctAnswer": "1400"
+  }
+]

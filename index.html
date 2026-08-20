@@ -1,16 +1,13 @@
 <!doctype html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mock Test Hall</title>
     <link rel="stylesheet" href="style.css" />
-
 </head>
-
 <body>
-    <!-- ============ SETUP ============ -->
+    <!-- ============ SETUP / DASHBOARD ============ -->
     <section id="setup" class="screen active">
         <div class="wrap">
             <div class="masthead">
@@ -18,16 +15,25 @@
                 <h1>Mock Test Hall</h1>
                 <p>
                     Load a question paper as JSON, set your time, and sit
-                    the test. Every second on every question is recorded for
-                    the analysis at the end.
+                    the test. You can pause anytime, save tests to your library, and resume later.
                 </p>
             </div>
 
+            <!-- Saved Tests Library Dashboard -->
+            <div class="panel" id="savedTestsPanel">
+                <div class="panel-header-row">
+                    <h2>📚 Saved Tests Library</h2>
+                    <span class="tag" id="savedCountTag">0 saved</span>
+                </div>
+                <p class="hint">Resume in-progress tests or start a fresh attempt from your saved library.</p>
+                <div id="savedTestsList" class="saved-list"></div>
+            </div>
+
             <div class="panel">
-                <h2>1 · Question paper (JSON)</h2>
+                <h2>1 · Load New Question Paper (JSON)</h2>
                 <p class="hint">
                     Paste your questions below, upload a .json file, or load
-                    the sample paper to try it out.
+                    the sample paper.
                 </p>
                 <textarea id="jsonInput" spellcheck="false" placeholder='[
   {
@@ -43,6 +49,9 @@
                             accept=".json,application/json" /></label>
                     <button class="btn ghost" id="sampleBtn">
                         Load sample paper
+                    </button>
+                    <button class="btn ghost" id="savePaperBtn" disabled>
+                        💾 Save to Library
                     </button>
                 </div>
                 <details class="schema">
@@ -67,7 +76,7 @@
                     <input type="number" id="durationInput" min="1" max="600" value="0"
                         aria-label="Test duration in minutes" />
                     <span style="font-size: 14px; color: var(--muted)">minutes total &nbsp;·&nbsp; defaults to 1 minute
-                        per question when the paper is loaded</span>
+                        per question when loaded</span>
                 </div>
             </div>
 
@@ -85,7 +94,10 @@
                     <div class="title" id="testTitle">Mock Test</div>
                     <div class="sub" id="testProgress">QUESTION 1 / 10</div>
                 </div>
-                <div class="clock" id="clock" aria-live="off">00:00</div>
+                <div class="testbar-actions">
+                    <div class="clock" id="clock" aria-live="off">00:00</div>
+                    <button class="btn" id="pauseBtn" title="Pause test">⏸ Pause</button>
+                </div>
             </div>
         </div>
 
@@ -131,6 +143,18 @@
                 </button>
             </aside>
         </div>
+
+        <!-- Pause Modal -->
+        <div class="modal-overlay" id="pauseModal">
+            <div class="modal-card">
+                <h2>Test Paused</h2>
+                <p>Your timer is stopped and your progress is preserved.</p>
+                <div class="modal-actions">
+                    <button class="btn primary" id="resumeBtn">▶ Resume Test</button>
+                    <button class="btn" id="saveAndExitBtn">💾 Save & Exit to Dashboard</button>
+                </div>
+            </div>
+        </div>
     </section>
 
     <!-- ============ RESULTS ============ -->
@@ -150,7 +174,7 @@
                         Retake this paper
                     </button>
                     <button class="btn ghost" id="newPaperBtn">
-                        Load a new paper
+                        Dashboard / New paper
                     </button>
                 </div>
             </div>
@@ -176,11 +200,7 @@
             <div class="rpanel">
                 <h2>
                     Question-wise review
-                    <span style="
-                                font-weight: 400;
-                                color: var(--muted);
-                                font-size: 12px;
-                            ">(click a row to see the full question)</span>
+                    <span style="font-weight: 400; color: var(--muted); font-size: 12px;">(click a row to see the full question)</span>
                 </h2>
                 <div style="overflow-x: auto">
                     <table class="review">
@@ -202,5 +222,4 @@
     </section>
     <script src="script.js"></script>
 </body>
-
 </html>
